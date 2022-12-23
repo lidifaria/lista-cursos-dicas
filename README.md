@@ -15,6 +15,7 @@ Me siga por aí:
 ## 🗂 ÍNDICE
 [📂 CURSOS, OFICINAS, WORKSHOPS - gratuitos](#-cursos-oficinas-workshops---gratuitos) <br>
 [📂 CURSOS, OFICINAS, WORKSHOPS - pagos](#-cursos-oficinas-workshops---pagos) <br>
+[📂 ARTIGOS - textos, dicas e roadmaps](#-artigos---textos-dicas-e-roadmaps) <br>
 [📂 YOUTUBE - canais e vídeos](#-youtube---canais-e-v%C3%ADdeos) <br>
 
 <br>
@@ -48,6 +49,12 @@ No modelo anterior da DH: curso 100% online, com aulas ao vivo. Materiais e exer
 ➡ [<b>PrograMaria</b>](https://www.programaria.org/curso-online-euprogramo/) - Modelo 100% online, com aulas gravadas e exercícios em 6 módulos - que devem ser cumpridos em 28 dias.<BR>
 O conteúdo contempla conceitos iniciais de HTML, CSS, JavaScript e lógica de programação, passando também por dicas de carreira em tecnologia. Emite certificado e tem política de bolsas de estudo. <br>
 <i><b>review</b>: é uma ótima porta de entrada para se inspirar, aprender do zero e sentir se curte o caminho. </i>
+
+<br>
+
+## 📝 <b>ARTIGOS - textos, dicas e roadmaps</b>
+➡ <b>Jeniffer Bittencourt</b><br>
+<i>[5 dicas para quem quer dar seus primeiros passos na programação](https://dev.to/jeniblo_dev/5-dicas-pra-quem-quer-dar-seus-primeiros-passos-na-programacao-8ld)</i><br>
 
 <br>
 
