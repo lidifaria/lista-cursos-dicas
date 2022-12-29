@@ -23,7 +23,9 @@ Me siga por aí:
 ## 🎓 <b>CURSOS, OFICINAS, WORKSHOPS - gratuitos</b>
 ➡ [<b>Cubos Academy</b>](https://plataforma.potenciatech.com.br/potenciatech/play/curso/30194921) - Lógica de Programação.<br>
 Cubos Academy e Potência Tech oferecem este curso, ótimo para iniciar os estudos <br>
-Aulas gravadas. Emite certificado.<BR>
+Aulas gravadas. Emite certificado.
+
+<br>
 
 ➡ [<b>Estação Hack</b>](https://br.cellep.com/cursos-estacao-hack/) - Cel.Lep e Facebook - Primeiro centro para inovação criado pelo Facebook no mundo. Oferece cursos de UI/UX e Protótipos - Aplicativos, Frontend, Backend e Inglês instrumental.<br>
 Aulas ao vivo. Emite certificado.<BR>
