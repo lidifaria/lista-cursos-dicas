@@ -21,9 +21,9 @@ Me siga por aí:
 <br>
 
 ## 🎓 <b>CURSOS, OFICINAS, WORKSHOPS - gratuitos</b>
-➡ [<b>Cubos Academy</b>](https://plataforma.potenciatech.com.br/potenciatech/play/curso/30194921) - Lógica de Programação.<br>
-Cubos Academy e Potência Tech oferecem este curso, ótimo para iniciar os estudos <br>
-Aulas gravadas. Emite certificado.
+➡ [<b>Cubos Academy</b>](https://plataforma.potenciatech.com.br/potenciatech/play/curso/30194921) - Lógica de Programação<br>
+Cubos Academy e Potência Tech oferecem este curso - ótimo para iniciar os estudos. <br>
+Aulas gravadas, 2h no total. Emite certificado.
 
 <br>
 
