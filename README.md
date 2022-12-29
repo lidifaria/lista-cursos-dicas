@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 BIO - Quem sou eu?
 <i>
-Sou a Lidi, estudante de Sistemas para Internet, com formação anterior em Jornalismo e Relações Públicas.<br>
+Sou a Lidi, estudante de Sistemas para Internet, graduada em Relações Públicas e pós-graduada em Jornalismo.<br>
 Aqui, armazeno alguns links importantes para meus estudos e compartilho breve reviews sobre cursos, oficinas e workshops que participo.
 <br>
 <br>
@@ -21,6 +21,10 @@ Me siga por aí:
 <br>
 
 ## 🎓 <b>CURSOS, OFICINAS, WORKSHOPS - gratuitos</b>
+➡ [<b>Cubos Academy</b>](https://plataforma.potenciatech.com.br/potenciatech/play/curso/30194921) - Lógica de Programação.<br>
+Cubos Academy e Potência Tech oferecem este curso, ótimo para iniciar os estudos <br>
+Aulas gravadas. Emite certificado.<BR>
+
 ➡ [<b>Estação Hack</b>](https://br.cellep.com/cursos-estacao-hack/) - Cel.Lep e Facebook - Primeiro centro para inovação criado pelo Facebook no mundo. Oferece cursos de UI/UX e Protótipos - Aplicativos, Frontend, Backend e Inglês instrumental.<br>
 Aulas ao vivo. Emite certificado.<BR>
 <i><b>review</b>: fiz o curso de Backend. Conteúdo denso, com projeto para desenvolver ao final. Separe tempo e disposição para se dedicar.</i>
