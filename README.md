@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 BIO - Quem sou eu?
 <i>
 Sou a Lidi, estudante de Sistemas para Internet, graduada em Relações Públicas e pós-graduada em Jornalismo.<br>
-Aqui, armazeno alguns links importantes para meus estudos e compartilho breve reviews sobre cursos, oficinas e workshops que participo.
+Aqui, armazeno alguns links importantes para meus estudos e compartilho breves reviews sobre cursos, oficinas e workshops que participo.
 <br>
 <br>
 Me siga por aí:
